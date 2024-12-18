@@ -66,28 +66,8 @@
   ],
   "TipoImovel": [
     {
-      "time": "2024-12-01 00:00:00",
-      "Hidrometrado": 92229,
-      "Estimado": 789
-    },
-    {
-      "time": "2024-11-01 00:00:00",
-      "Hidrometrado": 92162,
-      "Estimado": 789
-    },
-    {
-      "time": "2024-10-01 00:00:00",
-      "Hidrometrado": 91846,
-      "Estimado": 789
-    },
-    {
-      "time": "2024-09-01 00:00:00",
-      "Hidrometrado": 91846,
-      "Estimado": 789
-    },
-    {
-      "time": "2024-08-01 00:00:00",
-      "Hidrometrado": 91699,
+      "time": "2024-06-01 00:00:00",
+      "Hidrometrado": 91382,
       "Estimado": 788
     },
     {
@@ -96,9 +76,29 @@
       "Estimado": 788
     },
     {
-      "time": "2024-06-01 00:00:00",
-      "Hidrometrado": 91382,
+      "time": "2024-08-01 00:00:00",
+      "Hidrometrado": 91699,
       "Estimado": 788
+    },
+    {
+      "time": "2024-09-01 00:00:00",
+      "Hidrometrado": 91846,
+      "Estimado": 789
+    },
+    {
+      "time": "2024-10-01 00:00:00",
+      "Hidrometrado": 91846,
+      "Estimado": 789
+    },
+    {
+      "time": "2024-11-01 00:00:00",
+      "Hidrometrado": 92162,
+      "Estimado": 789
+    },
+    {
+      "time": "2024-12-01 00:00:00",
+      "Hidrometrado": 92229,
+      "Estimado": 789
     }
   ]
 }
