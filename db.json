@@ -100,5 +100,3281 @@
       "Hidrometrado": 92229,
       "Estimado": 789
     }
+  ],
+  "ImoveisPorRoteiro": [
+    {
+      "Roteiro": "A-1",
+      "Total": 281
+    },
+    {
+      "Roteiro": "A-2",
+      "Total": 223
+    },
+    {
+      "Roteiro": "A-3",
+      "Total": 195
+    },
+    {
+      "Roteiro": "A-4",
+      "Total": 249
+    },
+    {
+      "Roteiro": "A-5",
+      "Total": 163
+    },
+    {
+      "Roteiro": "A-6",
+      "Total": 157
+    },
+    {
+      "Roteiro": "A-7",
+      "Total": 291
+    },
+    {
+      "Roteiro": "A-8",
+      "Total": 254
+    },
+    {
+      "Roteiro": "A-9",
+      "Total": 225
+    },
+    {
+      "Roteiro": "A-10",
+      "Total": 254
+    },
+    {
+      "Roteiro": "A-11",
+      "Total": 229
+    },
+    {
+      "Roteiro": "A-12",
+      "Total": 255
+    },
+    {
+      "Roteiro": "A-13",
+      "Total": 256
+    },
+    {
+      "Roteiro": "A-14",
+      "Total": 214
+    },
+    {
+      "Roteiro": "B-1",
+      "Total": 234
+    },
+    {
+      "Roteiro": "B-2",
+      "Total": 237
+    },
+    {
+      "Roteiro": "B-3",
+      "Total": 230
+    },
+    {
+      "Roteiro": "B-4",
+      "Total": 225
+    },
+    {
+      "Roteiro": "B-5",
+      "Total": 200
+    },
+    {
+      "Roteiro": "B-6",
+      "Total": 177
+    },
+    {
+      "Roteiro": "B-7",
+      "Total": 276
+    },
+    {
+      "Roteiro": "B-8",
+      "Total": 352
+    },
+    {
+      "Roteiro": "B-9",
+      "Total": 240
+    },
+    {
+      "Roteiro": "B-10",
+      "Total": 308
+    },
+    {
+      "Roteiro": "B-11",
+      "Total": 287
+    },
+    {
+      "Roteiro": "B-12",
+      "Total": 230
+    },
+    {
+      "Roteiro": "B-13",
+      "Total": 242
+    },
+    {
+      "Roteiro": "B-14",
+      "Total": 213
+    },
+    {
+      "Roteiro": "B-15",
+      "Total": 231
+    },
+    {
+      "Roteiro": "B-16",
+      "Total": 220
+    },
+    {
+      "Roteiro": "B-17",
+      "Total": 356
+    },
+    {
+      "Roteiro": "B-18",
+      "Total": 265
+    },
+    {
+      "Roteiro": "B-19",
+      "Total": 241
+    },
+    {
+      "Roteiro": "B-20",
+      "Total": 18
+    },
+    {
+      "Roteiro": "B-21",
+      "Total": 38
+    },
+    {
+      "Roteiro": "B-22",
+      "Total": 33
+    },
+    {
+      "Roteiro": "B-23",
+      "Total": 34
+    },
+    {
+      "Roteiro": "C-1",
+      "Total": 223
+    },
+    {
+      "Roteiro": "C-2",
+      "Total": 222
+    },
+    {
+      "Roteiro": "C-3",
+      "Total": 215
+    },
+    {
+      "Roteiro": "C-4",
+      "Total": 219
+    },
+    {
+      "Roteiro": "C-5",
+      "Total": 221
+    },
+    {
+      "Roteiro": "C-6",
+      "Total": 215
+    },
+    {
+      "Roteiro": "C-7",
+      "Total": 216
+    },
+    {
+      "Roteiro": "C-8",
+      "Total": 165
+    },
+    {
+      "Roteiro": "C-9",
+      "Total": 210
+    },
+    {
+      "Roteiro": "C-10",
+      "Total": 193
+    },
+    {
+      "Roteiro": "C-11",
+      "Total": 245
+    },
+    {
+      "Roteiro": "C-12",
+      "Total": 236
+    },
+    {
+      "Roteiro": "C-13",
+      "Total": 236
+    },
+    {
+      "Roteiro": "C-14",
+      "Total": 195
+    },
+    {
+      "Roteiro": "C-15",
+      "Total": 222
+    },
+    {
+      "Roteiro": "C-16",
+      "Total": 230
+    },
+    {
+      "Roteiro": "D-1",
+      "Total": 346
+    },
+    {
+      "Roteiro": "D-2",
+      "Total": 43
+    },
+    {
+      "Roteiro": "D-3",
+      "Total": 208
+    },
+    {
+      "Roteiro": "D-4",
+      "Total": 215
+    },
+    {
+      "Roteiro": "D-5",
+      "Total": 212
+    },
+    {
+      "Roteiro": "D-6",
+      "Total": 242
+    },
+    {
+      "Roteiro": "D-7",
+      "Total": 203
+    },
+    {
+      "Roteiro": "D-8",
+      "Total": 241
+    },
+    {
+      "Roteiro": "D-9",
+      "Total": 220
+    },
+    {
+      "Roteiro": "D-10",
+      "Total": 166
+    },
+    {
+      "Roteiro": "D-11",
+      "Total": 183
+    },
+    {
+      "Roteiro": "D-12",
+      "Total": 203
+    },
+    {
+      "Roteiro": "D-13",
+      "Total": 207
+    },
+    {
+      "Roteiro": "D-14",
+      "Total": 201
+    },
+    {
+      "Roteiro": "D-15",
+      "Total": 200
+    },
+    {
+      "Roteiro": "D-16",
+      "Total": 200
+    },
+    {
+      "Roteiro": "E-1",
+      "Total": 232
+    },
+    {
+      "Roteiro": "E-2",
+      "Total": 238
+    },
+    {
+      "Roteiro": "E-3",
+      "Total": 216
+    },
+    {
+      "Roteiro": "E-4",
+      "Total": 211
+    },
+    {
+      "Roteiro": "E-5",
+      "Total": 220
+    },
+    {
+      "Roteiro": "E-6",
+      "Total": 208
+    },
+    {
+      "Roteiro": "E-7",
+      "Total": 229
+    },
+    {
+      "Roteiro": "E-8",
+      "Total": 231
+    },
+    {
+      "Roteiro": "E-9",
+      "Total": 224
+    },
+    {
+      "Roteiro": "E-10",
+      "Total": 226
+    },
+    {
+      "Roteiro": "E-11",
+      "Total": 224
+    },
+    {
+      "Roteiro": "E-12",
+      "Total": 242
+    },
+    {
+      "Roteiro": "E-13",
+      "Total": 177
+    },
+    {
+      "Roteiro": "E-14",
+      "Total": 175
+    },
+    {
+      "Roteiro": "F-1",
+      "Total": 213
+    },
+    {
+      "Roteiro": "F-2",
+      "Total": 239
+    },
+    {
+      "Roteiro": "F-3",
+      "Total": 222
+    },
+    {
+      "Roteiro": "F-4",
+      "Total": 223
+    },
+    {
+      "Roteiro": "F-5",
+      "Total": 235
+    },
+    {
+      "Roteiro": "F-6",
+      "Total": 224
+    },
+    {
+      "Roteiro": "F-7",
+      "Total": 249
+    },
+    {
+      "Roteiro": "F-8",
+      "Total": 230
+    },
+    {
+      "Roteiro": "F-9",
+      "Total": 231
+    },
+    {
+      "Roteiro": "F-10",
+      "Total": 223
+    },
+    {
+      "Roteiro": "F-11",
+      "Total": 240
+    },
+    {
+      "Roteiro": "F-12",
+      "Total": 201
+    },
+    {
+      "Roteiro": "F-13",
+      "Total": 210
+    },
+    {
+      "Roteiro": "F-14",
+      "Total": 194
+    },
+    {
+      "Roteiro": "F-15",
+      "Total": 231
+    },
+    {
+      "Roteiro": "G-1",
+      "Total": 249
+    },
+    {
+      "Roteiro": "G-2",
+      "Total": 231
+    },
+    {
+      "Roteiro": "G-3",
+      "Total": 263
+    },
+    {
+      "Roteiro": "G-4",
+      "Total": 258
+    },
+    {
+      "Roteiro": "G-5",
+      "Total": 249
+    },
+    {
+      "Roteiro": "G-6",
+      "Total": 264
+    },
+    {
+      "Roteiro": "G-7",
+      "Total": 269
+    },
+    {
+      "Roteiro": "G-8",
+      "Total": 228
+    },
+    {
+      "Roteiro": "G-9",
+      "Total": 247
+    },
+    {
+      "Roteiro": "G-10",
+      "Total": 144
+    },
+    {
+      "Roteiro": "G-11",
+      "Total": 203
+    },
+    {
+      "Roteiro": "G-12",
+      "Total": 225
+    },
+    {
+      "Roteiro": "G-13",
+      "Total": 211
+    },
+    {
+      "Roteiro": "G-14",
+      "Total": 211
+    },
+    {
+      "Roteiro": "G-15",
+      "Total": 213
+    },
+    {
+      "Roteiro": "H-1",
+      "Total": 219
+    },
+    {
+      "Roteiro": "H-2",
+      "Total": 212
+    },
+    {
+      "Roteiro": "H-3",
+      "Total": 223
+    },
+    {
+      "Roteiro": "H-4",
+      "Total": 250
+    },
+    {
+      "Roteiro": "H-5",
+      "Total": 208
+    },
+    {
+      "Roteiro": "H-6",
+      "Total": 238
+    },
+    {
+      "Roteiro": "H-7",
+      "Total": 190
+    },
+    {
+      "Roteiro": "H-8",
+      "Total": 230
+    },
+    {
+      "Roteiro": "H-9",
+      "Total": 226
+    },
+    {
+      "Roteiro": "H-10",
+      "Total": 232
+    },
+    {
+      "Roteiro": "H-11",
+      "Total": 236
+    },
+    {
+      "Roteiro": "H-12",
+      "Total": 247
+    },
+    {
+      "Roteiro": "H-13",
+      "Total": 235
+    },
+    {
+      "Roteiro": "H-14",
+      "Total": 166
+    },
+    {
+      "Roteiro": "I-1",
+      "Total": 267
+    },
+    {
+      "Roteiro": "I-2",
+      "Total": 302
+    },
+    {
+      "Roteiro": "I-3",
+      "Total": 296
+    },
+    {
+      "Roteiro": "I-4",
+      "Total": 200
+    },
+    {
+      "Roteiro": "I-5",
+      "Total": 201
+    },
+    {
+      "Roteiro": "I-6",
+      "Total": 221
+    },
+    {
+      "Roteiro": "I-7",
+      "Total": 218
+    },
+    {
+      "Roteiro": "I-8",
+      "Total": 204
+    },
+    {
+      "Roteiro": "I-9",
+      "Total": 207
+    },
+    {
+      "Roteiro": "I-10",
+      "Total": 208
+    },
+    {
+      "Roteiro": "I-11",
+      "Total": 197
+    },
+    {
+      "Roteiro": "I-12",
+      "Total": 206
+    },
+    {
+      "Roteiro": "I-13",
+      "Total": 204
+    },
+    {
+      "Roteiro": "I-14",
+      "Total": 233
+    },
+    {
+      "Roteiro": "I-15",
+      "Total": 312
+    },
+    {
+      "Roteiro": "J-1",
+      "Total": 225
+    },
+    {
+      "Roteiro": "J-2",
+      "Total": 246
+    },
+    {
+      "Roteiro": "J-3",
+      "Total": 246
+    },
+    {
+      "Roteiro": "J-4",
+      "Total": 228
+    },
+    {
+      "Roteiro": "J-5",
+      "Total": 237
+    },
+    {
+      "Roteiro": "J-6",
+      "Total": 197
+    },
+    {
+      "Roteiro": "J-7",
+      "Total": 252
+    },
+    {
+      "Roteiro": "J-8",
+      "Total": 231
+    },
+    {
+      "Roteiro": "J-9",
+      "Total": 258
+    },
+    {
+      "Roteiro": "J-10",
+      "Total": 254
+    },
+    {
+      "Roteiro": "J-11",
+      "Total": 279
+    },
+    {
+      "Roteiro": "J-12",
+      "Total": 248
+    },
+    {
+      "Roteiro": "J-13",
+      "Total": 267
+    },
+    {
+      "Roteiro": "J-14",
+      "Total": 242
+    },
+    {
+      "Roteiro": "K-1",
+      "Total": 370
+    },
+    {
+      "Roteiro": "K-2",
+      "Total": 292
+    },
+    {
+      "Roteiro": "K-3",
+      "Total": 268
+    },
+    {
+      "Roteiro": "K-4",
+      "Total": 231
+    },
+    {
+      "Roteiro": "K-5",
+      "Total": 243
+    },
+    {
+      "Roteiro": "K-6",
+      "Total": 234
+    },
+    {
+      "Roteiro": "K-7",
+      "Total": 229
+    },
+    {
+      "Roteiro": "K-8",
+      "Total": 259
+    },
+    {
+      "Roteiro": "K-9",
+      "Total": 284
+    },
+    {
+      "Roteiro": "K-10",
+      "Total": 190
+    },
+    {
+      "Roteiro": "K-11",
+      "Total": 313
+    },
+    {
+      "Roteiro": "K-12",
+      "Total": 266
+    },
+    {
+      "Roteiro": "K-13",
+      "Total": 212
+    },
+    {
+      "Roteiro": "K-14",
+      "Total": 179
+    },
+    {
+      "Roteiro": "K-15",
+      "Total": 180
+    },
+    {
+      "Roteiro": "K-16",
+      "Total": 283
+    },
+    {
+      "Roteiro": "L-1",
+      "Total": 173
+    },
+    {
+      "Roteiro": "L-2",
+      "Total": 185
+    },
+    {
+      "Roteiro": "L-3",
+      "Total": 167
+    },
+    {
+      "Roteiro": "L-4",
+      "Total": 185
+    },
+    {
+      "Roteiro": "L-5",
+      "Total": 226
+    },
+    {
+      "Roteiro": "L-6",
+      "Total": 237
+    },
+    {
+      "Roteiro": "L-7",
+      "Total": 238
+    },
+    {
+      "Roteiro": "L-8",
+      "Total": 228
+    },
+    {
+      "Roteiro": "L-9",
+      "Total": 236
+    },
+    {
+      "Roteiro": "L-10",
+      "Total": 215
+    },
+    {
+      "Roteiro": "L-11",
+      "Total": 246
+    },
+    {
+      "Roteiro": "L-12",
+      "Total": 254
+    },
+    {
+      "Roteiro": "L-13",
+      "Total": 210
+    },
+    {
+      "Roteiro": "L-14",
+      "Total": 276
+    },
+    {
+      "Roteiro": "L-16",
+      "Total": 246
+    },
+    {
+      "Roteiro": "M-1",
+      "Total": 151
+    },
+    {
+      "Roteiro": "M-2",
+      "Total": 199
+    },
+    {
+      "Roteiro": "M-3",
+      "Total": 198
+    },
+    {
+      "Roteiro": "M-4",
+      "Total": 201
+    },
+    {
+      "Roteiro": "M-6",
+      "Total": 309
+    },
+    {
+      "Roteiro": "M-7",
+      "Total": 256
+    },
+    {
+      "Roteiro": "M-8",
+      "Total": 77
+    },
+    {
+      "Roteiro": "M-9",
+      "Total": 252
+    },
+    {
+      "Roteiro": "M-10",
+      "Total": 289
+    },
+    {
+      "Roteiro": "M-11",
+      "Total": 249
+    },
+    {
+      "Roteiro": "M-12",
+      "Total": 219
+    },
+    {
+      "Roteiro": "M-13",
+      "Total": 257
+    },
+    {
+      "Roteiro": "M-14",
+      "Total": 217
+    },
+    {
+      "Roteiro": "M-15",
+      "Total": 283
+    },
+    {
+      "Roteiro": "M-16",
+      "Total": 208
+    },
+    {
+      "Roteiro": "M-17",
+      "Total": 100
+    },
+    {
+      "Roteiro": "N-1",
+      "Total": 251
+    },
+    {
+      "Roteiro": "N-2",
+      "Total": 243
+    },
+    {
+      "Roteiro": "N-3",
+      "Total": 238
+    },
+    {
+      "Roteiro": "N-4",
+      "Total": 254
+    },
+    {
+      "Roteiro": "N-5",
+      "Total": 260
+    },
+    {
+      "Roteiro": "N-6",
+      "Total": 263
+    },
+    {
+      "Roteiro": "N-7",
+      "Total": 267
+    },
+    {
+      "Roteiro": "N-8",
+      "Total": 237
+    },
+    {
+      "Roteiro": "N-9",
+      "Total": 232
+    },
+    {
+      "Roteiro": "N-10",
+      "Total": 216
+    },
+    {
+      "Roteiro": "N-11",
+      "Total": 225
+    },
+    {
+      "Roteiro": "N-12",
+      "Total": 204
+    },
+    {
+      "Roteiro": "N-13",
+      "Total": 219
+    },
+    {
+      "Roteiro": "N-14",
+      "Total": 247
+    },
+    {
+      "Roteiro": "N-15",
+      "Total": 247
+    },
+    {
+      "Roteiro": "N-16",
+      "Total": 257
+    },
+    {
+      "Roteiro": "O-1",
+      "Total": 254
+    },
+    {
+      "Roteiro": "O-2",
+      "Total": 268
+    },
+    {
+      "Roteiro": "O-3",
+      "Total": 310
+    },
+    {
+      "Roteiro": "O-4",
+      "Total": 267
+    },
+    {
+      "Roteiro": "O-5",
+      "Total": 280
+    },
+    {
+      "Roteiro": "O-6",
+      "Total": 235
+    },
+    {
+      "Roteiro": "O-7",
+      "Total": 340
+    },
+    {
+      "Roteiro": "O-8",
+      "Total": 264
+    },
+    {
+      "Roteiro": "O-9",
+      "Total": 266
+    },
+    {
+      "Roteiro": "O-10",
+      "Total": 263
+    },
+    {
+      "Roteiro": "O-11",
+      "Total": 261
+    },
+    {
+      "Roteiro": "O-12",
+      "Total": 250
+    },
+    {
+      "Roteiro": "O-13",
+      "Total": 255
+    },
+    {
+      "Roteiro": "O-14",
+      "Total": 264
+    },
+    {
+      "Roteiro": "O-15",
+      "Total": 198
+    },
+    {
+      "Roteiro": "O-17",
+      "Total": 119
+    },
+    {
+      "Roteiro": "P-1",
+      "Total": 211
+    },
+    {
+      "Roteiro": "P-2",
+      "Total": 228
+    },
+    {
+      "Roteiro": "P-3",
+      "Total": 218
+    },
+    {
+      "Roteiro": "P-4",
+      "Total": 210
+    },
+    {
+      "Roteiro": "P-5",
+      "Total": 253
+    },
+    {
+      "Roteiro": "P-6",
+      "Total": 166
+    },
+    {
+      "Roteiro": "P-7",
+      "Total": 21
+    },
+    {
+      "Roteiro": "P-8",
+      "Total": 80
+    },
+    {
+      "Roteiro": "P-9",
+      "Total": 36
+    },
+    {
+      "Roteiro": "P-10",
+      "Total": 159
+    },
+    {
+      "Roteiro": "P-11",
+      "Total": 211
+    },
+    {
+      "Roteiro": "P-12",
+      "Total": 203
+    },
+    {
+      "Roteiro": "P-13",
+      "Total": 208
+    },
+    {
+      "Roteiro": "P-14",
+      "Total": 217
+    },
+    {
+      "Roteiro": "P-15",
+      "Total": 207
+    },
+    {
+      "Roteiro": "P-16",
+      "Total": 227
+    },
+    {
+      "Roteiro": "P-17",
+      "Total": 284
+    },
+    {
+      "Roteiro": "Q-1",
+      "Total": 233
+    },
+    {
+      "Roteiro": "Q-2",
+      "Total": 1
+    },
+    {
+      "Roteiro": "Q-3",
+      "Total": 231
+    },
+    {
+      "Roteiro": "Q-4",
+      "Total": 252
+    },
+    {
+      "Roteiro": "Q-5",
+      "Total": 237
+    },
+    {
+      "Roteiro": "Q-6",
+      "Total": 215
+    },
+    {
+      "Roteiro": "Q-7",
+      "Total": 248
+    },
+    {
+      "Roteiro": "Q-8",
+      "Total": 209
+    },
+    {
+      "Roteiro": "Q-9",
+      "Total": 212
+    },
+    {
+      "Roteiro": "Q-10",
+      "Total": 201
+    },
+    {
+      "Roteiro": "Q-11",
+      "Total": 197
+    },
+    {
+      "Roteiro": "Q-12",
+      "Total": 164
+    },
+    {
+      "Roteiro": "Q-13",
+      "Total": 159
+    },
+    {
+      "Roteiro": "Q-14",
+      "Total": 196
+    },
+    {
+      "Roteiro": "Q-15",
+      "Total": 176
+    },
+    {
+      "Roteiro": "Q-16",
+      "Total": 134
+    },
+    {
+      "Roteiro": "R-1",
+      "Total": 272
+    },
+    {
+      "Roteiro": "R-2",
+      "Total": 273
+    },
+    {
+      "Roteiro": "R-3",
+      "Total": 288
+    },
+    {
+      "Roteiro": "R-4",
+      "Total": 236
+    },
+    {
+      "Roteiro": "R-5",
+      "Total": 210
+    },
+    {
+      "Roteiro": "R-6",
+      "Total": 273
+    },
+    {
+      "Roteiro": "R-7",
+      "Total": 228
+    },
+    {
+      "Roteiro": "R-8",
+      "Total": 279
+    },
+    {
+      "Roteiro": "R-9",
+      "Total": 247
+    },
+    {
+      "Roteiro": "R-10",
+      "Total": 324
+    },
+    {
+      "Roteiro": "R-11",
+      "Total": 275
+    },
+    {
+      "Roteiro": "R-12",
+      "Total": 244
+    },
+    {
+      "Roteiro": "R-13",
+      "Total": 326
+    },
+    {
+      "Roteiro": "R-14",
+      "Total": 329
+    },
+    {
+      "Roteiro": "R-15",
+      "Total": 165
+    },
+    {
+      "Roteiro": "R-16",
+      "Total": 261
+    },
+    {
+      "Roteiro": "S-1",
+      "Total": 188
+    },
+    {
+      "Roteiro": "S-2",
+      "Total": 310
+    },
+    {
+      "Roteiro": "S-3",
+      "Total": 350
+    },
+    {
+      "Roteiro": "S-4",
+      "Total": 279
+    },
+    {
+      "Roteiro": "S-5",
+      "Total": 260
+    },
+    {
+      "Roteiro": "S-6",
+      "Total": 305
+    },
+    {
+      "Roteiro": "S-7",
+      "Total": 318
+    },
+    {
+      "Roteiro": "S-8",
+      "Total": 262
+    },
+    {
+      "Roteiro": "S-9",
+      "Total": 143
+    },
+    {
+      "Roteiro": "S-10",
+      "Total": 4
+    },
+    {
+      "Roteiro": "S-11",
+      "Total": 293
+    },
+    {
+      "Roteiro": "S-12",
+      "Total": 233
+    },
+    {
+      "Roteiro": "S-13",
+      "Total": 273
+    },
+    {
+      "Roteiro": "S-14",
+      "Total": 242
+    },
+    {
+      "Roteiro": "S-15",
+      "Total": 172
+    },
+    {
+      "Roteiro": "S-16",
+      "Total": 136
+    },
+    {
+      "Roteiro": "S-17",
+      "Total": 281
+    },
+    {
+      "Roteiro": "S-18",
+      "Total": 193
+    },
+    {
+      "Roteiro": "S-19",
+      "Total": 307
+    },
+    {
+      "Roteiro": "T-1",
+      "Total": 273
+    },
+    {
+      "Roteiro": "T-2",
+      "Total": 229
+    },
+    {
+      "Roteiro": "T-3",
+      "Total": 245
+    },
+    {
+      "Roteiro": "T-4",
+      "Total": 257
+    },
+    {
+      "Roteiro": "T-5",
+      "Total": 269
+    },
+    {
+      "Roteiro": "T-6",
+      "Total": 304
+    },
+    {
+      "Roteiro": "T-7",
+      "Total": 280
+    },
+    {
+      "Roteiro": "T-8",
+      "Total": 261
+    },
+    {
+      "Roteiro": "T-9",
+      "Total": 274
+    },
+    {
+      "Roteiro": "T-10",
+      "Total": 267
+    },
+    {
+      "Roteiro": "T-11",
+      "Total": 268
+    },
+    {
+      "Roteiro": "T-12",
+      "Total": 249
+    },
+    {
+      "Roteiro": "T-13",
+      "Total": 229
+    },
+    {
+      "Roteiro": "T-14",
+      "Total": 240
+    },
+    {
+      "Roteiro": "T-15",
+      "Total": 235
+    },
+    {
+      "Roteiro": "T-16",
+      "Total": 249
+    },
+    {
+      "Roteiro": "U-1",
+      "Total": 287
+    },
+    {
+      "Roteiro": "U-2",
+      "Total": 256
+    },
+    {
+      "Roteiro": "U-3",
+      "Total": 339
+    },
+    {
+      "Roteiro": "U-4",
+      "Total": 289
+    },
+    {
+      "Roteiro": "U-5",
+      "Total": 304
+    },
+    {
+      "Roteiro": "U-6",
+      "Total": 312
+    },
+    {
+      "Roteiro": "U-7",
+      "Total": 297
+    },
+    {
+      "Roteiro": "U-8",
+      "Total": 218
+    },
+    {
+      "Roteiro": "U-9",
+      "Total": 225
+    },
+    {
+      "Roteiro": "U-10",
+      "Total": 174
+    },
+    {
+      "Roteiro": "U-11",
+      "Total": 192
+    },
+    {
+      "Roteiro": "U-12",
+      "Total": 184
+    },
+    {
+      "Roteiro": "U-13",
+      "Total": 206
+    },
+    {
+      "Roteiro": "U-14",
+      "Total": 186
+    },
+    {
+      "Roteiro": "U-15",
+      "Total": 231
+    },
+    {
+      "Roteiro": "U-16",
+      "Total": 240
+    },
+    {
+      "Roteiro": "V-1",
+      "Total": 219
+    },
+    {
+      "Roteiro": "V-2",
+      "Total": 224
+    },
+    {
+      "Roteiro": "V-3",
+      "Total": 215
+    },
+    {
+      "Roteiro": "V-4",
+      "Total": 210
+    },
+    {
+      "Roteiro": "V-5",
+      "Total": 220
+    },
+    {
+      "Roteiro": "V-6",
+      "Total": 182
+    },
+    {
+      "Roteiro": "V-7",
+      "Total": 158
+    },
+    {
+      "Roteiro": "V-8",
+      "Total": 248
+    },
+    {
+      "Roteiro": "V-9",
+      "Total": 286
+    },
+    {
+      "Roteiro": "V-10",
+      "Total": 267
+    },
+    {
+      "Roteiro": "V-11",
+      "Total": 261
+    },
+    {
+      "Roteiro": "V-12",
+      "Total": 292
+    },
+    {
+      "Roteiro": "V-13",
+      "Total": 207
+    },
+    {
+      "Roteiro": "V-14",
+      "Total": 177
+    },
+    {
+      "Roteiro": "W-1",
+      "Total": 293
+    },
+    {
+      "Roteiro": "W-2",
+      "Total": 324
+    },
+    {
+      "Roteiro": "W-3",
+      "Total": 336
+    },
+    {
+      "Roteiro": "W-4",
+      "Total": 230
+    },
+    {
+      "Roteiro": "W-5",
+      "Total": 232
+    },
+    {
+      "Roteiro": "W-6",
+      "Total": 207
+    },
+    {
+      "Roteiro": "W-7",
+      "Total": 242
+    },
+    {
+      "Roteiro": "W-8",
+      "Total": 225
+    },
+    {
+      "Roteiro": "W-9",
+      "Total": 187
+    },
+    {
+      "Roteiro": "W-10",
+      "Total": 191
+    },
+    {
+      "Roteiro": "W-11",
+      "Total": 215
+    },
+    {
+      "Roteiro": "W-12",
+      "Total": 210
+    },
+    {
+      "Roteiro": "W-13",
+      "Total": 160
+    },
+    {
+      "Roteiro": "W-14",
+      "Total": 310
+    },
+    {
+      "Roteiro": "W-15",
+      "Total": 227
+    },
+    {
+      "Roteiro": "W-16",
+      "Total": 218
+    },
+    {
+      "Roteiro": "X-1",
+      "Total": 103
+    },
+    {
+      "Roteiro": "X-2",
+      "Total": 177
+    },
+    {
+      "Roteiro": "X-3",
+      "Total": 53
+    },
+    {
+      "Roteiro": "X-4",
+      "Total": 170
+    },
+    {
+      "Roteiro": "X-5",
+      "Total": 48
+    },
+    {
+      "Roteiro": "X-6",
+      "Total": 6
+    },
+    {
+      "Roteiro": "Y-2",
+      "Total": 159
+    },
+    {
+      "Roteiro": "Y-3",
+      "Total": 215
+    },
+    {
+      "Roteiro": "Y-4",
+      "Total": 49
+    },
+    {
+      "Roteiro": "Y-5",
+      "Total": 181
+    },
+    {
+      "Roteiro": "Y-6",
+      "Total": 184
+    },
+    {
+      "Roteiro": "Y-10",
+      "Total": 1
+    },
+    {
+      "Roteiro": "Y-11",
+      "Total": 86
+    },
+    {
+      "Roteiro": "Y-12",
+      "Total": 184
+    },
+    {
+      "Roteiro": "Y-13",
+      "Total": 163
+    },
+    {
+      "Roteiro": "Y-14",
+      "Total": 127
+    },
+    {
+      "Roteiro": "Y-15",
+      "Total": 207
+    },
+    {
+      "Roteiro": "Y-18",
+      "Total": 150
+    },
+    {
+      "Roteiro": "Y-19",
+      "Total": 5
+    },
+    {
+      "Roteiro": "Y-20",
+      "Total": 297
+    },
+    {
+      "Roteiro": "Y-21",
+      "Total": 252
+    },
+    {
+      "Roteiro": "Y-27",
+      "Total": 174
+    },
+    {
+      "Roteiro": "Y-28",
+      "Total": 126
+    },
+    {
+      "Roteiro": "Y-29",
+      "Total": 214
+    },
+    {
+      "Roteiro": "Y-30",
+      "Total": 170
+    },
+    {
+      "Roteiro": "Y-31",
+      "Total": 236
+    },
+    {
+      "Roteiro": "Y-32",
+      "Total": 256
+    },
+    {
+      "Roteiro": "Y-33",
+      "Total": 168
+    },
+    {
+      "Roteiro": "Y-34",
+      "Total": 164
+    },
+    {
+      "Roteiro": "Y-35",
+      "Total": 103
+    },
+    {
+      "Roteiro": "Y-36",
+      "Total": 209
+    },
+    {
+      "Roteiro": "Z-1",
+      "Total": 181
+    },
+    {
+      "Roteiro": "Z-3",
+      "Total": 221
+    },
+    {
+      "Roteiro": "Z-4",
+      "Total": 75
+    },
+    {
+      "Roteiro": "Z-5",
+      "Total": 292
+    },
+    {
+      "Roteiro": "Z-6",
+      "Total": 390
+    },
+    {
+      "Roteiro": "Z-7",
+      "Total": 2
+    },
+    {
+      "Roteiro": "Z-8",
+      "Total": 137
+    },
+    {
+      "Roteiro": "Z-9",
+      "Total": 251
+    },
+    {
+      "Roteiro": "Z-10",
+      "Total": 156
+    },
+    {
+      "Roteiro": "Z-11",
+      "Total": 12
+    },
+    {
+      "Roteiro": "Z-14",
+      "Total": 61
+    },
+    {
+      "Roteiro": "Z-15",
+      "Total": 244
+    },
+    {
+      "Roteiro": "Z-16",
+      "Total": 8
+    },
+    {
+      "Roteiro": "Z-17",
+      "Total": 164
+    },
+    {
+      "Roteiro": "Z-19",
+      "Total": 92
+    },
+    {
+      "Roteiro": "Z-20",
+      "Total": 5
+    },
+    {
+      "Roteiro": "Z-23",
+      "Total": 167
+    },
+    {
+      "Roteiro": "Z-24",
+      "Total": 210
+    },
+    {
+      "Roteiro": "Z-25",
+      "Total": 158
+    },
+    {
+      "Roteiro": "Z-27",
+      "Total": 169
+    },
+    {
+      "Roteiro": "Z-28",
+      "Total": 1
+    },
+    {
+      "Roteiro": "Z-29",
+      "Total": 169
+    },
+    {
+      "Roteiro": "Z-31",
+      "Total": 1
+    },
+    {
+      "Roteiro": "Z-33",
+      "Total": 148
+    },
+    {
+      "Roteiro": "Z-35",
+      "Total": 269
+    },
+    {
+      "Roteiro": "Z-36",
+      "Total": 2
+    },
+    {
+      "Roteiro": "Z-37",
+      "Total": 2
+    },
+    {
+      "Roteiro": "Z-38",
+      "Total": 278
+    },
+    {
+      "Roteiro": "Z-39",
+      "Total": 147
+    },
+    {
+      "Roteiro": "Z-40",
+      "Total": 280
+    },
+    {
+      "Roteiro": "Z-41",
+      "Total": 232
+    },
+    {
+      "Roteiro": "Z-42",
+      "Total": 290
+    },
+    {
+      "Roteiro": "Z-50",
+      "Total": 1
+    }
+  ],
+  "ImoveisPorGrade": [
+    {
+      "Grade": 0,
+      "Total": 6
+    },
+    {
+      "Grade": 1,
+      "Total": 281
+    },
+    {
+      "Grade": 2,
+      "Total": 223
+    },
+    {
+      "Grade": 3,
+      "Total": 444
+    },
+    {
+      "Grade": 5,
+      "Total": 163
+    },
+    {
+      "Grade": 6,
+      "Total": 157
+    },
+    {
+      "Grade": 7,
+      "Total": 291
+    },
+    {
+      "Grade": 8,
+      "Total": 254
+    },
+    {
+      "Grade": 9,
+      "Total": 225
+    },
+    {
+      "Grade": 10,
+      "Total": 254
+    },
+    {
+      "Grade": 11,
+      "Total": 229
+    },
+    {
+      "Grade": 12,
+      "Total": 255
+    },
+    {
+      "Grade": 13,
+      "Total": 256
+    },
+    {
+      "Grade": 14,
+      "Total": 214
+    },
+    {
+      "Grade": 17,
+      "Total": 234
+    },
+    {
+      "Grade": 18,
+      "Total": 237
+    },
+    {
+      "Grade": 19,
+      "Total": 230
+    },
+    {
+      "Grade": 20,
+      "Total": 225
+    },
+    {
+      "Grade": 21,
+      "Total": 252
+    },
+    {
+      "Grade": 22,
+      "Total": 489
+    },
+    {
+      "Grade": 24,
+      "Total": 254
+    },
+    {
+      "Grade": 25,
+      "Total": 279
+    },
+    {
+      "Grade": 26,
+      "Total": 248
+    },
+    {
+      "Grade": 27,
+      "Total": 267
+    },
+    {
+      "Grade": 28,
+      "Total": 242
+    },
+    {
+      "Grade": 33,
+      "Total": 223
+    },
+    {
+      "Grade": 34,
+      "Total": 222
+    },
+    {
+      "Grade": 35,
+      "Total": 215
+    },
+    {
+      "Grade": 36,
+      "Total": 219
+    },
+    {
+      "Grade": 37,
+      "Total": 221
+    },
+    {
+      "Grade": 38,
+      "Total": 215
+    },
+    {
+      "Grade": 39,
+      "Total": 216
+    },
+    {
+      "Grade": 40,
+      "Total": 245
+    },
+    {
+      "Grade": 41,
+      "Total": 236
+    },
+    {
+      "Grade": 42,
+      "Total": 236
+    },
+    {
+      "Grade": 43,
+      "Total": 195
+    },
+    {
+      "Grade": 44,
+      "Total": 222
+    },
+    {
+      "Grade": 45,
+      "Total": 230
+    },
+    {
+      "Grade": 49,
+      "Total": 346
+    },
+    {
+      "Grade": 50,
+      "Total": 251
+    },
+    {
+      "Grade": 51,
+      "Total": 215
+    },
+    {
+      "Grade": 52,
+      "Total": 212
+    },
+    {
+      "Grade": 53,
+      "Total": 242
+    },
+    {
+      "Grade": 54,
+      "Total": 203
+    },
+    {
+      "Grade": 55,
+      "Total": 241
+    },
+    {
+      "Grade": 56,
+      "Total": 220
+    },
+    {
+      "Grade": 57,
+      "Total": 166
+    },
+    {
+      "Grade": 58,
+      "Total": 183
+    },
+    {
+      "Grade": 59,
+      "Total": 203
+    },
+    {
+      "Grade": 60,
+      "Total": 207
+    },
+    {
+      "Grade": 61,
+      "Total": 201
+    },
+    {
+      "Grade": 62,
+      "Total": 400
+    },
+    {
+      "Grade": 65,
+      "Total": 232
+    },
+    {
+      "Grade": 66,
+      "Total": 238
+    },
+    {
+      "Grade": 67,
+      "Total": 216
+    },
+    {
+      "Grade": 68,
+      "Total": 211
+    },
+    {
+      "Grade": 69,
+      "Total": 220
+    },
+    {
+      "Grade": 70,
+      "Total": 208
+    },
+    {
+      "Grade": 71,
+      "Total": 229
+    },
+    {
+      "Grade": 72,
+      "Total": 231
+    },
+    {
+      "Grade": 73,
+      "Total": 224
+    },
+    {
+      "Grade": 74,
+      "Total": 226
+    },
+    {
+      "Grade": 75,
+      "Total": 466
+    },
+    {
+      "Grade": 77,
+      "Total": 177
+    },
+    {
+      "Grade": 78,
+      "Total": 175
+    },
+    {
+      "Grade": 81,
+      "Total": 213
+    },
+    {
+      "Grade": 82,
+      "Total": 239
+    },
+    {
+      "Grade": 83,
+      "Total": 222
+    },
+    {
+      "Grade": 84,
+      "Total": 223
+    },
+    {
+      "Grade": 85,
+      "Total": 235
+    },
+    {
+      "Grade": 86,
+      "Total": 224
+    },
+    {
+      "Grade": 87,
+      "Total": 249
+    },
+    {
+      "Grade": 88,
+      "Total": 230
+    },
+    {
+      "Grade": 89,
+      "Total": 231
+    },
+    {
+      "Grade": 90,
+      "Total": 223
+    },
+    {
+      "Grade": 91,
+      "Total": 441
+    },
+    {
+      "Grade": 93,
+      "Total": 210
+    },
+    {
+      "Grade": 94,
+      "Total": 194
+    },
+    {
+      "Grade": 95,
+      "Total": 231
+    },
+    {
+      "Grade": 97,
+      "Total": 249
+    },
+    {
+      "Grade": 98,
+      "Total": 231
+    },
+    {
+      "Grade": 99,
+      "Total": 263
+    },
+    {
+      "Grade": 100,
+      "Total": 258
+    },
+    {
+      "Grade": 101,
+      "Total": 249
+    },
+    {
+      "Grade": 102,
+      "Total": 264
+    },
+    {
+      "Grade": 103,
+      "Total": 269
+    },
+    {
+      "Grade": 104,
+      "Total": 475
+    },
+    {
+      "Grade": 106,
+      "Total": 144
+    },
+    {
+      "Grade": 107,
+      "Total": 203
+    },
+    {
+      "Grade": 108,
+      "Total": 225
+    },
+    {
+      "Grade": 109,
+      "Total": 211
+    },
+    {
+      "Grade": 110,
+      "Total": 211
+    },
+    {
+      "Grade": 111,
+      "Total": 213
+    },
+    {
+      "Grade": 113,
+      "Total": 431
+    },
+    {
+      "Grade": 115,
+      "Total": 223
+    },
+    {
+      "Grade": 116,
+      "Total": 250
+    },
+    {
+      "Grade": 117,
+      "Total": 208
+    },
+    {
+      "Grade": 118,
+      "Total": 238
+    },
+    {
+      "Grade": 119,
+      "Total": 190
+    },
+    {
+      "Grade": 120,
+      "Total": 230
+    },
+    {
+      "Grade": 121,
+      "Total": 226
+    },
+    {
+      "Grade": 122,
+      "Total": 232
+    },
+    {
+      "Grade": 123,
+      "Total": 236
+    },
+    {
+      "Grade": 124,
+      "Total": 247
+    },
+    {
+      "Grade": 125,
+      "Total": 235
+    },
+    {
+      "Grade": 126,
+      "Total": 166
+    },
+    {
+      "Grade": 129,
+      "Total": 267
+    },
+    {
+      "Grade": 130,
+      "Total": 302
+    },
+    {
+      "Grade": 131,
+      "Total": 296
+    },
+    {
+      "Grade": 132,
+      "Total": 200
+    },
+    {
+      "Grade": 133,
+      "Total": 201
+    },
+    {
+      "Grade": 134,
+      "Total": 221
+    },
+    {
+      "Grade": 135,
+      "Total": 218
+    },
+    {
+      "Grade": 136,
+      "Total": 204
+    },
+    {
+      "Grade": 137,
+      "Total": 207
+    },
+    {
+      "Grade": 138,
+      "Total": 208
+    },
+    {
+      "Grade": 139,
+      "Total": 197
+    },
+    {
+      "Grade": 140,
+      "Total": 206
+    },
+    {
+      "Grade": 141,
+      "Total": 204
+    },
+    {
+      "Grade": 142,
+      "Total": 233
+    },
+    {
+      "Grade": 143,
+      "Total": 312
+    },
+    {
+      "Grade": 145,
+      "Total": 225
+    },
+    {
+      "Grade": 146,
+      "Total": 246
+    },
+    {
+      "Grade": 147,
+      "Total": 246
+    },
+    {
+      "Grade": 148,
+      "Total": 228
+    },
+    {
+      "Grade": 149,
+      "Total": 237
+    },
+    {
+      "Grade": 150,
+      "Total": 197
+    },
+    {
+      "Grade": 151,
+      "Total": 218
+    },
+    {
+      "Grade": 152,
+      "Total": 399
+    },
+    {
+      "Grade": 154,
+      "Total": 192
+    },
+    {
+      "Grade": 155,
+      "Total": 184
+    },
+    {
+      "Grade": 156,
+      "Total": 206
+    },
+    {
+      "Grade": 157,
+      "Total": 186
+    },
+    {
+      "Grade": 158,
+      "Total": 231
+    },
+    {
+      "Grade": 159,
+      "Total": 240
+    },
+    {
+      "Grade": 161,
+      "Total": 292
+    },
+    {
+      "Grade": 162,
+      "Total": 268
+    },
+    {
+      "Grade": 163,
+      "Total": 283
+    },
+    {
+      "Grade": 164,
+      "Total": 231
+    },
+    {
+      "Grade": 165,
+      "Total": 243
+    },
+    {
+      "Grade": 166,
+      "Total": 234
+    },
+    {
+      "Grade": 167,
+      "Total": 229
+    },
+    {
+      "Grade": 168,
+      "Total": 259
+    },
+    {
+      "Grade": 169,
+      "Total": 284
+    },
+    {
+      "Grade": 170,
+      "Total": 190
+    },
+    {
+      "Grade": 171,
+      "Total": 212
+    },
+    {
+      "Grade": 172,
+      "Total": 179
+    },
+    {
+      "Grade": 173,
+      "Total": 180
+    },
+    {
+      "Grade": 177,
+      "Total": 173
+    },
+    {
+      "Grade": 178,
+      "Total": 185
+    },
+    {
+      "Grade": 179,
+      "Total": 167
+    },
+    {
+      "Grade": 180,
+      "Total": 185
+    },
+    {
+      "Grade": 181,
+      "Total": 463
+    },
+    {
+      "Grade": 183,
+      "Total": 238
+    },
+    {
+      "Grade": 184,
+      "Total": 228
+    },
+    {
+      "Grade": 185,
+      "Total": 246
+    },
+    {
+      "Grade": 186,
+      "Total": 236
+    },
+    {
+      "Grade": 187,
+      "Total": 215
+    },
+    {
+      "Grade": 188,
+      "Total": 246
+    },
+    {
+      "Grade": 189,
+      "Total": 254
+    },
+    {
+      "Grade": 190,
+      "Total": 210
+    },
+    {
+      "Grade": 191,
+      "Total": 276
+    },
+    {
+      "Grade": 193,
+      "Total": 204
+    },
+    {
+      "Grade": 194,
+      "Total": 199
+    },
+    {
+      "Grade": 195,
+      "Total": 198
+    },
+    {
+      "Grade": 196,
+      "Total": 301
+    },
+    {
+      "Grade": 197,
+      "Total": 309
+    },
+    {
+      "Grade": 198,
+      "Total": 256
+    },
+    {
+      "Grade": 200,
+      "Total": 252
+    },
+    {
+      "Grade": 201,
+      "Total": 289
+    },
+    {
+      "Grade": 202,
+      "Total": 249
+    },
+    {
+      "Grade": 203,
+      "Total": 219
+    },
+    {
+      "Grade": 204,
+      "Total": 257
+    },
+    {
+      "Grade": 205,
+      "Total": 217
+    },
+    {
+      "Grade": 206,
+      "Total": 283
+    },
+    {
+      "Grade": 207,
+      "Total": 208
+    },
+    {
+      "Grade": 209,
+      "Total": 494
+    },
+    {
+      "Grade": 211,
+      "Total": 254
+    },
+    {
+      "Grade": 212,
+      "Total": 260
+    },
+    {
+      "Grade": 213,
+      "Total": 263
+    },
+    {
+      "Grade": 214,
+      "Total": 267
+    },
+    {
+      "Grade": 215,
+      "Total": 237
+    },
+    {
+      "Grade": 216,
+      "Total": 232
+    },
+    {
+      "Grade": 217,
+      "Total": 441
+    },
+    {
+      "Grade": 219,
+      "Total": 204
+    },
+    {
+      "Grade": 220,
+      "Total": 219
+    },
+    {
+      "Grade": 221,
+      "Total": 247
+    },
+    {
+      "Grade": 222,
+      "Total": 247
+    },
+    {
+      "Grade": 225,
+      "Total": 254
+    },
+    {
+      "Grade": 226,
+      "Total": 268
+    },
+    {
+      "Grade": 227,
+      "Total": 310
+    },
+    {
+      "Grade": 228,
+      "Total": 267
+    },
+    {
+      "Grade": 229,
+      "Total": 280
+    },
+    {
+      "Grade": 230,
+      "Total": 235
+    },
+    {
+      "Grade": 231,
+      "Total": 340
+    },
+    {
+      "Grade": 232,
+      "Total": 266
+    },
+    {
+      "Grade": 233,
+      "Total": 263
+    },
+    {
+      "Grade": 234,
+      "Total": 261
+    },
+    {
+      "Grade": 235,
+      "Total": 250
+    },
+    {
+      "Grade": 236,
+      "Total": 255
+    },
+    {
+      "Grade": 237,
+      "Total": 264
+    },
+    {
+      "Grade": 241,
+      "Total": 439
+    },
+    {
+      "Grade": 243,
+      "Total": 218
+    },
+    {
+      "Grade": 244,
+      "Total": 210
+    },
+    {
+      "Grade": 245,
+      "Total": 253
+    },
+    {
+      "Grade": 246,
+      "Total": 187
+    },
+    {
+      "Grade": 247,
+      "Total": 275
+    },
+    {
+      "Grade": 248,
+      "Total": 211
+    },
+    {
+      "Grade": 249,
+      "Total": 203
+    },
+    {
+      "Grade": 250,
+      "Total": 208
+    },
+    {
+      "Grade": 251,
+      "Total": 217
+    },
+    {
+      "Grade": 252,
+      "Total": 207
+    },
+    {
+      "Grade": 253,
+      "Total": 227
+    },
+    {
+      "Grade": 254,
+      "Total": 284
+    },
+    {
+      "Grade": 257,
+      "Total": 233
+    },
+    {
+      "Grade": 258,
+      "Total": 231
+    },
+    {
+      "Grade": 259,
+      "Total": 252
+    },
+    {
+      "Grade": 260,
+      "Total": 237
+    },
+    {
+      "Grade": 261,
+      "Total": 463
+    },
+    {
+      "Grade": 263,
+      "Total": 209
+    },
+    {
+      "Grade": 264,
+      "Total": 212
+    },
+    {
+      "Grade": 265,
+      "Total": 134
+    },
+    {
+      "Grade": 266,
+      "Total": 164
+    },
+    {
+      "Grade": 267,
+      "Total": 355
+    },
+    {
+      "Grade": 269,
+      "Total": 176
+    },
+    {
+      "Grade": 273,
+      "Total": 293
+    },
+    {
+      "Grade": 274,
+      "Total": 324
+    },
+    {
+      "Grade": 275,
+      "Total": 336
+    },
+    {
+      "Grade": 276,
+      "Total": 230
+    },
+    {
+      "Grade": 277,
+      "Total": 273
+    },
+    {
+      "Grade": 278,
+      "Total": 228
+    },
+    {
+      "Grade": 279,
+      "Total": 279
+    },
+    {
+      "Grade": 280,
+      "Total": 247
+    },
+    {
+      "Grade": 281,
+      "Total": 324
+    },
+    {
+      "Grade": 282,
+      "Total": 201
+    },
+    {
+      "Grade": 283,
+      "Total": 197
+    },
+    {
+      "Grade": 284,
+      "Total": 326
+    },
+    {
+      "Grade": 285,
+      "Total": 329
+    },
+    {
+      "Grade": 289,
+      "Total": 310
+    },
+    {
+      "Grade": 290,
+      "Total": 350
+    },
+    {
+      "Grade": 291,
+      "Total": 281
+    },
+    {
+      "Grade": 292,
+      "Total": 279
+    },
+    {
+      "Grade": 293,
+      "Total": 260
+    },
+    {
+      "Grade": 294,
+      "Total": 305
+    },
+    {
+      "Grade": 295,
+      "Total": 318
+    },
+    {
+      "Grade": 296,
+      "Total": 262
+    },
+    {
+      "Grade": 297,
+      "Total": 147
+    },
+    {
+      "Grade": 298,
+      "Total": 293
+    },
+    {
+      "Grade": 299,
+      "Total": 233
+    },
+    {
+      "Grade": 300,
+      "Total": 193
+    },
+    {
+      "Grade": 301,
+      "Total": 273
+    },
+    {
+      "Grade": 302,
+      "Total": 414
+    },
+    {
+      "Grade": 305,
+      "Total": 273
+    },
+    {
+      "Grade": 306,
+      "Total": 229
+    },
+    {
+      "Grade": 307,
+      "Total": 245
+    },
+    {
+      "Grade": 308,
+      "Total": 304
+    },
+    {
+      "Grade": 309,
+      "Total": 280
+    },
+    {
+      "Grade": 310,
+      "Total": 261
+    },
+    {
+      "Grade": 311,
+      "Total": 274
+    },
+    {
+      "Grade": 312,
+      "Total": 267
+    },
+    {
+      "Grade": 313,
+      "Total": 268
+    },
+    {
+      "Grade": 314,
+      "Total": 249
+    },
+    {
+      "Grade": 315,
+      "Total": 229
+    },
+    {
+      "Grade": 316,
+      "Total": 240
+    },
+    {
+      "Grade": 317,
+      "Total": 235
+    },
+    {
+      "Grade": 318,
+      "Total": 249
+    },
+    {
+      "Grade": 321,
+      "Total": 287
+    },
+    {
+      "Grade": 322,
+      "Total": 256
+    },
+    {
+      "Grade": 323,
+      "Total": 339
+    },
+    {
+      "Grade": 324,
+      "Total": 276
+    },
+    {
+      "Grade": 325,
+      "Total": 352
+    },
+    {
+      "Grade": 326,
+      "Total": 240
+    },
+    {
+      "Grade": 327,
+      "Total": 308
+    },
+    {
+      "Grade": 328,
+      "Total": 287
+    },
+    {
+      "Grade": 329,
+      "Total": 472
+    },
+    {
+      "Grade": 331,
+      "Total": 213
+    },
+    {
+      "Grade": 332,
+      "Total": 231
+    },
+    {
+      "Grade": 333,
+      "Total": 220
+    },
+    {
+      "Grade": 334,
+      "Total": 356
+    },
+    {
+      "Grade": 337,
+      "Total": 219
+    },
+    {
+      "Grade": 338,
+      "Total": 224
+    },
+    {
+      "Grade": 339,
+      "Total": 215
+    },
+    {
+      "Grade": 340,
+      "Total": 210
+    },
+    {
+      "Grade": 341,
+      "Total": 220
+    },
+    {
+      "Grade": 342,
+      "Total": 182
+    },
+    {
+      "Grade": 343,
+      "Total": 158
+    },
+    {
+      "Grade": 344,
+      "Total": 248
+    },
+    {
+      "Grade": 345,
+      "Total": 286
+    },
+    {
+      "Grade": 346,
+      "Total": 267
+    },
+    {
+      "Grade": 347,
+      "Total": 261
+    },
+    {
+      "Grade": 348,
+      "Total": 292
+    },
+    {
+      "Grade": 349,
+      "Total": 207
+    },
+    {
+      "Grade": 350,
+      "Total": 177
+    },
+    {
+      "Grade": 353,
+      "Total": 272
+    },
+    {
+      "Grade": 354,
+      "Total": 273
+    },
+    {
+      "Grade": 355,
+      "Total": 288
+    },
+    {
+      "Grade": 356,
+      "Total": 236
+    },
+    {
+      "Grade": 357,
+      "Total": 210
+    },
+    {
+      "Grade": 359,
+      "Total": 207
+    },
+    {
+      "Grade": 360,
+      "Total": 242
+    },
+    {
+      "Grade": 361,
+      "Total": 225
+    },
+    {
+      "Grade": 362,
+      "Total": 370
+    },
+    {
+      "Grade": 364,
+      "Total": 227
+    },
+    {
+      "Grade": 365,
+      "Total": 310
+    },
+    {
+      "Grade": 366,
+      "Total": 218
+    },
+    {
+      "Grade": 369,
+      "Total": 188
+    },
+    {
+      "Grade": 370,
+      "Total": 136
+    },
+    {
+      "Grade": 371,
+      "Total": 238
+    },
+    {
+      "Grade": 372,
+      "Total": 257
+    },
+    {
+      "Grade": 373,
+      "Total": 269
+    },
+    {
+      "Grade": 374,
+      "Total": 312
+    },
+    {
+      "Grade": 375,
+      "Total": 297
+    },
+    {
+      "Grade": 376,
+      "Total": 397
+    },
+    {
+      "Grade": 377,
+      "Total": 269
+    },
+    {
+      "Grade": 378,
+      "Total": 278
+    },
+    {
+      "Grade": 379,
+      "Total": 275
+    },
+    {
+      "Grade": 380,
+      "Total": 165
+    },
+    {
+      "Grade": 381,
+      "Total": 297
+    },
+    {
+      "Grade": 382,
+      "Total": 252
+    },
+    {
+      "Grade": 383,
+      "Total": 209
+    },
+    {
+      "Grade": 385,
+      "Total": 289
+    },
+    {
+      "Grade": 386,
+      "Total": 304
+    },
+    {
+      "Grade": 387,
+      "Total": 377
+    },
+    {
+      "Grade": 389,
+      "Total": 264
+    },
+    {
+      "Grade": 390,
+      "Total": 210
+    },
+    {
+      "Grade": 391,
+      "Total": 193
+    },
+    {
+      "Grade": 392,
+      "Total": 313
+    },
+    {
+      "Grade": 393,
+      "Total": 266
+    },
+    {
+      "Grade": 394,
+      "Total": 244
+    },
+    {
+      "Grade": 395,
+      "Total": 261
+    },
+    {
+      "Grade": 396,
+      "Total": 187
+    },
+    {
+      "Grade": 397,
+      "Total": 406
+    },
+    {
+      "Grade": 399,
+      "Total": 257
+    },
+    {
+      "Grade": 401,
+      "Total": 370
+    },
+    {
+      "Grade": 402,
+      "Total": 292
+    },
+    {
+      "Grade": 403,
+      "Total": 283
+    },
+    {
+      "Grade": 404,
+      "Total": 168
+    },
+    {
+      "Grade": 405,
+      "Total": 103
+    },
+    {
+      "Grade": 406,
+      "Total": 170
+    },
+    {
+      "Grade": 407,
+      "Total": 236
+    },
+    {
+      "Grade": 408,
+      "Total": 214
+    },
+    {
+      "Grade": 409,
+      "Total": 126
+    },
+    {
+      "Grade": 410,
+      "Total": 1
+    },
+    {
+      "Grade": 412,
+      "Total": 208
+    },
+    {
+      "Grade": 413,
+      "Total": 280
+    },
+    {
+      "Grade": 414,
+      "Total": 2
+    },
+    {
+      "Grade": 415,
+      "Total": 5
+    },
+    {
+      "Grade": 416,
+      "Total": 174
+    },
+    {
+      "Grade": 420,
+      "Total": 189
+    },
+    {
+      "Grade": 421,
+      "Total": 148
+    },
+    {
+      "Grade": 422,
+      "Total": 169
+    },
+    {
+      "Grade": 424,
+      "Total": 167
+    },
+    {
+      "Grade": 425,
+      "Total": 251
+    },
+    {
+      "Grade": 426,
+      "Total": 280
+    },
+    {
+      "Grade": 427,
+      "Total": 243
+    },
+    {
+      "Grade": 428,
+      "Total": 210
+    },
+    {
+      "Grade": 429,
+      "Total": 390
+    },
+    {
+      "Grade": 430,
+      "Total": 158
+    },
+    {
+      "Grade": 431,
+      "Total": 191
+    },
+    {
+      "Grade": 432,
+      "Total": 147
+    },
+    {
+      "Grade": 433,
+      "Total": 265
+    },
+    {
+      "Grade": 434,
+      "Total": 241
+    },
+    {
+      "Grade": 435,
+      "Total": 18
+    },
+    {
+      "Grade": 436,
+      "Total": 290
+    },
+    {
+      "Grade": 500,
+      "Total": 147
+    },
+    {
+      "Grade": 501,
+      "Total": 163
+    },
+    {
+      "Grade": 502,
+      "Total": 207
+    },
+    {
+      "Grade": 503,
+      "Total": 127
+    },
+    {
+      "Grade": 504,
+      "Total": 256
+    },
+    {
+      "Grade": 505,
+      "Total": 184
+    },
+    {
+      "Grade": 506,
+      "Total": 221
+    },
+    {
+      "Grade": 507,
+      "Total": 244
+    },
+    {
+      "Grade": 508,
+      "Total": 169
+    },
+    {
+      "Grade": 509,
+      "Total": 150
+    },
+    {
+      "Grade": 510,
+      "Total": 181
+    },
+    {
+      "Grade": 511,
+      "Total": 184
+    },
+    {
+      "Grade": 512,
+      "Total": 164
+    },
+    {
+      "Grade": 513,
+      "Total": 92
+    },
+    {
+      "Grade": 514,
+      "Total": 307
+    },
+    {
+      "Grade": 699,
+      "Total": 38
+    },
+    {
+      "Grade": 700,
+      "Total": 33
+    },
+    {
+      "Grade": 701,
+      "Total": 34
+    },
+    {
+      "Grade": 800,
+      "Total": 232
+    },
+    {
+      "Grade": 810,
+      "Total": 5
+    },
+    {
+      "Grade": 850,
+      "Total": 292
+    },
+    {
+      "Grade": 860,
+      "Total": 170
+    },
+    {
+      "Grade": 870,
+      "Total": 198
+    },
+    {
+      "Grade": 998,
+      "Total": 1
+    },
+    {
+      "Grade": 999,
+      "Total": 1
+    }
   ]
 }
