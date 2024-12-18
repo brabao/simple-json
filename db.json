@@ -1,47 +1,11 @@
 {
   "SituacaoImovel": [
     {
-      "time": "2024-12-01 00:00:00",
-      "Ativo": 83954,
-      "Cortado": 5532,
-      "Desligado": 2211,
-      "Cancelado": 1305,
-      "Potencial": 11,
-      "Factivel": 5
-    },
-    {
-      "time": "2024-11-01 00:00:00",
-      "Ativo": 83881,
-      "Cortado": 5556,
-      "Desligado": 2193,
-      "Cancelado": 1305,
-      "Potencial": 11,
-      "Factivel": 5
-    },
-    {
-      "time": "2024-10-01 00:00:00",
-      "Ativo": 83670,
-      "Cortado": 5445,
-      "Desligado": 2200,
-      "Cancelado": 1304,
-      "Potencial": 11,
-      "Factivel": 5
-    },
-    {
-      "time": "2024-09-01 00:00:00",
-      "Ativo": 83670,
-      "Cortado": 5445,
-      "Desligado": 2200,
-      "Cancelado": 1304,
-      "Potencial": 11,
-      "Factivel": 5
-    },
-    {
-      "time": "2024-08-01 00:00:00",
-      "Ativo": 83506,
-      "Cortado": 5457,
-      "Desligado": 2207,
-      "Cancelado": 1301,
+      "time": "2024-06-01 00:00:00",
+      "Ativo": 83184,
+      "Cortado": 5497,
+      "Desligado": 2174,
+      "Cancelado": 1299,
       "Potencial": 11,
       "Factivel": 5
     },
@@ -55,11 +19,47 @@
       "Factivel": 5
     },
     {
-      "time": "2024-06-01 00:00:00",
-      "Ativo": 83184,
-      "Cortado": 5497,
-      "Desligado": 2174,
-      "Cancelado": 1299,
+      "time": "2024-08-01 00:00:00",
+      "Ativo": 83506,
+      "Cortado": 5457,
+      "Desligado": 2207,
+      "Cancelado": 1301,
+      "Potencial": 11,
+      "Factivel": 5
+    },
+    {
+      "time": "2024-09-01 00:00:00",
+      "Ativo": 83670,
+      "Cortado": 5445,
+      "Desligado": 2200,
+      "Cancelado": 1304,
+      "Potencial": 11,
+      "Factivel": 5
+    },
+    {
+      "time": "2024-10-01 00:00:00",
+      "Ativo": 83670,
+      "Cortado": 5445,
+      "Desligado": 2200,
+      "Cancelado": 1304,
+      "Potencial": 11,
+      "Factivel": 5
+    },
+    {
+      "time": "2024-11-01 00:00:00",
+      "Ativo": 83881,
+      "Cortado": 5556,
+      "Desligado": 2193,
+      "Cancelado": 1305,
+      "Potencial": 11,
+      "Factivel": 5
+    },
+    {
+      "time": "2024-12-01 00:00:00",
+      "Ativo": 83954,
+      "Cortado": 5532,
+      "Desligado": 2211,
+      "Cancelado": 1305,
       "Potencial": 11,
       "Factivel": 5
     }
